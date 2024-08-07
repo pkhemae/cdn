@@ -1,1 +1,10 @@
-
+[
+   {
+      "article_id":1,
+      "article_name":"Nouveau site web",
+      "publish_date":"07-08-2024",
+      "thumbnail":"https://wallpaper.forfun.com/fetch/07/071b961df5e5772e2e2173f4dd0aacf6.jpeg",
+      "description":"Découvrez ce premier article sur le nouveau site d'Aresia",
+      "content":"lorem ipsum apagnan"
+   }
+]
