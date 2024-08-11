@@ -1,3 +1,5 @@
 {
-  "prompt": "Generate a description for this Vinted article: ${article}"
+  "description": {
+    "prompt": "Generate a description for this Vinted article: ${article}. Your output should use the following template: - Emoji bulletpoint"
+  }
 }
